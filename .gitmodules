@@ -1,0 +1,3 @@
+[submodule "ContextGatedMOE"]
+	path = ContextGatedMOE
+	url = https://github.com/Astro-85/ContextGatedMOE.git

@@ -1,0 +1,12 @@
+numpy
+pandas
+torch
+transformers
+torch_optimizer
+scikit-learn
+matplotlib
+pytorch-ignite
+torchmetrics
+syllables
+fastparquet
+sentencepiece
