@@ -20,10 +20,9 @@ Before running any experiments, first you must make sure the environment is setu
 
 3. Create a ```Results``` folder in the main folder that you cloned this repository into. Create specific subfolders so that the folder structure looks like the following (. represents the main folder that you cloned this repository into).
 
-   $ tree
-    .
-    ├── Results
-    │   ├── Benchmark_Data
+- .
+   - Results
+   -     Benchmark_Data
     │   ├── Finetune
     │   │   └── Models
     │   ├── Lora_Finetune
