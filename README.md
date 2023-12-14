@@ -22,15 +22,15 @@ Before running any experiments, first you must make sure the environment is setu
 
 - .
    - Results
-   -     Benchmark_Data
-    │   ├── Finetune
-    │   │   └── Models
-    │   ├── Lora_Finetune
-    │   │   ├── Base_Models
-    │   │   └── Models
-    │   ├── CGM_Lora
-    │   │   ├── Base_Model
-    └── └── └── Models
+      - Benchmark_Data
+      -  Finetune
+         - Models
+      - Lora_Finetune
+         - Base_Models
+         - Models
+      - CGM_Lora
+         - Base_Model
+         - Models
 
 Now you are ready to run some experiments!
 
